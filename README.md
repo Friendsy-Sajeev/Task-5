@@ -45,11 +45,11 @@ dns
 
 ### 6. Identify Protocols
 Look for at least three different protocols in the capture:
-Protocol	Description
-TCP	Reliable transport layer protocol
-DNS	Resolves hostnames to IP addresses
-HTTP/HTTPS	Web traffic (unencrypted/encrypted)
-ICMP	Used for pings (echo requests/replies)
+Protocol	Description:
+TCP	Reliable transport layer protocol, 
+DNS	Resolves hostnames to IP addresses, 
+HTTP/HTTPS	Web traffic (unencrypted/encrypted), 
+ICMP	Used for pings (echo requests/replies),
 
 ### 7. Save as .pcap or .pcapng
 Go to File → Save As
