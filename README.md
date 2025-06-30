@@ -39,8 +39,8 @@ After 30–60 seconds, click the red square icon to stop the capture.
 
 Use the following filters in the top filter bar of Wireshark:
 
-tcp
-http
+tcp,
+http,
 dns
 
 ### 6. Identify Protocols
